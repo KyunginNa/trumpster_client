@@ -1,7 +1,7 @@
 # Trumpster
 
 ## Description
-This is the client of the full stack application that we have created for the soul purpose of making fun of the former president of the United States, Mr Donald J. Trump. During his presidency he have made life hard for comedians whom makes political commentary. How do you make a joke about a living joke? The answer that we find to be the best is to show the original joke without context or commentary, let the man speak for himself.
+This is the client of the full stack application that we have created for the sole purpose of making fun of the former president of the United States, Mr Donald J. Trump. During his presidency he have made life hard for comedians whom makes political commentary. How do you make a joke about a living joke? The answer that we find to be the best is to show the original joke without context or commentary, let the man speak for himself.
 The website is made by using an external API called [Tronald Dump](https://www.tronalddump.io/). this API is a collection of all the dumbest things that Donald Trump has ever said. We use our API to modify the data from the Tronald Dump API and then use Axios to to request in order to get relevant data.
 The functionality is based on different leaves of authentication. When you are lust a visitor you will get one random quote that will update every time you refresh the page.
 When you are a registered member you have the ability to search for a quote from the Tronald Dump API. You become a registered member by providing the webpage with you’re Email and a password
